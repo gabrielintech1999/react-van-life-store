@@ -11,6 +11,7 @@ export default function NavBar() {
         <ul>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
+          <Link to="/vans">Vans</Link>
         </ul>
       </nav>
     );
