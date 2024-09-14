@@ -9,9 +9,9 @@ export default function NavBar() {
           <Link to="/">VanLife</Link>
         </h1>
         <ul>
-          <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
-          <Link to="/vans">Vans</Link>
+          <Link to="host">Host</Link>
+          <Link to="about">About</Link>
+          <Link to="vans">Vans</Link>
         </ul>
       </nav>
     );
